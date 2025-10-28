@@ -56,5 +56,10 @@ Thanks for stopping by! Feel free to connect or reach out for collaborations and
 ##  “Currently I am working on.” 
 
 #### From Innomatics research labs:
-      > Completed Things: 
-          [Walmart Sales Prediction using ML](https://github.com/hemanthreddyyanamala/Smartinternz_externship)
+  | Python
+  | PowerBI
+  | Statistics
+  | EDA
+  | SQL
+#### Personal:
+  | Langchain (Beginning from 28-10-25)
