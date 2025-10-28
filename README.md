@@ -49,3 +49,12 @@ Currently learning Data Science at **Innomatics Research Labs**, I’m passionat
 > “Curious to learn new things.”  
 
 Thanks for stopping by! Feel free to connect or reach out for collaborations and opportunities.
+
+
+---
+
+##  “Currently I am working on.” 
+
+#### From Innomatics research labs:
+      > Completed Things: 
+          [Walmart Sales Prediction using ML](https://github.com/hemanthreddyyanamala/Smartinternz_externship)
