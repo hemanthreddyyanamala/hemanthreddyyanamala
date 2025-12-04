@@ -62,4 +62,3 @@ Thanks for stopping by! Feel free to connect or reach out for collaborations and
   | EDA
   | SQL
 #### Personal:
-  | Langchain (Beginning from 28-10-25)
