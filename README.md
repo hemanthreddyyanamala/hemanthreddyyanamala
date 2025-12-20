@@ -61,4 +61,3 @@ Thanks for stopping by! Feel free to connect or reach out for collaborations and
   | Statistics
   | EDA
   | SQL
-#### Personal:
