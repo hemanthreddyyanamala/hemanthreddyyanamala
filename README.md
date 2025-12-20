@@ -1,4 +1,4 @@
-# Hi there, I'm Hemanth Reddy Yanamala! 👋
+# Hi there, I'm Hemanth Reddy Yanamala! 
 
 🎓 **Aspiring Data Scientist | Lifelong Learner**
 
@@ -6,16 +6,16 @@ Currently learning Data Science at **Innomatics Research Labs**, I’m passionat
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🔍 **Curious to learn new things** every day!
-- 💡 Building skills in **Python**, **Machine Learning**, and **Deep Learning**.
-- 🤝 **Open to collaboration** and actively seeking exciting internship opportunities.
-- 🛠️ Always working on meaningful projects to sharpen my expertise.
+-  **Curious to learn new things** every day!
+-  Building skills in **Python**, **Machine Learning**, and **Deep Learning**.
+-  **Open to collaboration** and actively seeking exciting internship opportunities.
+-  Always working on meaningful projects to sharpen my expertise.
 
 ---
 
-## 🏆 Notable Projects
+##  Notable Projects
 
 - [Malicious URL Detection using Machine Learning](https://github.com/hemanthreddyyanamala/finalyearproject)  
   _Detecting unsafe URLs with ML techniques._
@@ -25,7 +25,7 @@ Currently learning Data Science at **Innomatics Research Labs**, I’m passionat
 
 ---
 
-## ⚡ Skills & Technologies
+##  Skills & Technologies
 
 - **Languages:** Python
 - **Tech:** Machine Learning, Deep Learning, Data Science
@@ -33,14 +33,14 @@ Currently learning Data Science at **Innomatics Research Labs**, I’m passionat
 
 ---
 
-## 🌱 What I’m Looking For
+##  What I’m Looking For
 
-- 🤝 **Collaborative projects** in ML/DL and Data Science
-- 💼 **Internship opportunities** to kickstart my professional journey
+-  **Collaborative projects** in ML/DL and Data Science
+-  **Internship opportunities** to kickstart my professional journey
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/yanamala-hemanth-reddy/)
 
