@@ -1,6 +1,6 @@
 # Hi there, I'm Hemanth Reddy Yanamala! 
 
-🎓 **Aspiring Data Scientist | Lifelong Learner**
+ **Aspiring Data Scientist | Lifelong Learner**
 
 Currently learning Data Science at **Innomatics Research Labs**, I’m passionate about leveraging data to solve real-world problems. My journey is driven by curiosity and a love for learning new things, especially in the fields of Machine Learning (ML) and Deep Learning (DL).
 
