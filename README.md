@@ -28,17 +28,13 @@ Currently learning Data Science at **Innomatics Research Labs**, I’m passionat
 
 ##  Skills & Technologies
 
-- **Languages:** Python
-- **Tech:** Machine Learning, Deep Learning, Data Science
-- **Tools:** Jupyter Notebook, Pandas, NumPy, Scikit-learn, TensorFlow
-- **Python:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, BeautifulSoup, SciPy, Plotly, Jupyter, Streamlit, OpenCV 
-- **DBMS:** MySQL, SQLite, CRUD operations, Indexing, Joins, Normalization, ETL pipelines. 
-- **Power BI:** DAX, Visualization, Power Queries, Power Pivot, Visual Interactions, Drill Through.  
+- **Python:**              NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, BeautifulSoup, SciPy, Plotly, Jupyter, Streamlit, OpenCV 
+- **DBMS:**                MySQL, SQLite, CRUD operations, Indexing, Joins, Normalization, ETL pipelines. 
+- **Power BI:**            DAX, Visualization, Power Queries, Power Pivot, Visual Interactions, Drill Through.  
 - **Advanced Statistics:** Descriptive Statistics, Probability Distributions, Inferential Statistics, Hypothesis Testing, A/B Testing. 
-- **Machine Learning:** Supervised/Unsupervised Learning, Regression/Classification, Clustering, Ensemble Methods (Random Forest, XGBoost),      
-Evaluation Metrics , Hyperparameter Tuning , Feature Engineering, Model Deployment. 
-- **Deep Learning :** TensorFlow, PyTorch, Keras, Neural Networks (CNN, RNN).   
-- **Gen AI :** LLMs, RAG (Retrieval-Augmented Generation), Prompt Engineering, Fine-tuning LLMs, LangChain. 
+- **Machine Learning:**    Supervised/Unsupervised Learning, Regression/Classification, Clustering, Ensemble Methods (Random Forest, XGBoost), Evaluation Metrics, Hyperparameter Tuning, Feature Engineering, Model Deployment. 
+- **Deep Learning :**      TensorFlow, PyTorch, Keras, Neural Networks (CNN, RNN).   
+- **Gen AI :**             LLMs, RAG (Retrieval-Augmented Generation), Prompt Engineering, Fine-tuning LLMs, LangChain. 
 
 ---
 
