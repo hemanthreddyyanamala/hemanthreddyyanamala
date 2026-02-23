@@ -22,7 +22,7 @@ Currently learning Data Science at **Innomatics Research Labs**, I’m passionat
 
 - [Walmart Sales Prediction using ML](https://github.com/hemanthreddyyanamala/Smartinternz_externship)
   _Forecasting sales with data-driven models._
-  - [https://github.com/hemanthreddyyanamala/finalyearproject](https://github.com/hemanthreddyyanamala/Innomatics_Internship/tree/69b34f30d8cb47b38e9b431f5b0aeba5262b7dcc/Production-Ready%20GenAI%20Chatbot%20Project)  
+- [https://github.com/hemanthreddyyanamala/finalyearproject](https://github.com/hemanthreddyyanamala/Innomatics_Internship/tree/69b34f30d8cb47b38e9b431f5b0aeba5262b7dcc/Production-Ready%20GenAI%20Chatbot%20Project)  
   _RAG application on Blog Assistant Chatbot._
 
 ---
