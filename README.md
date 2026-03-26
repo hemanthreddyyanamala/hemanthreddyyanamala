@@ -1,4 +1,4 @@
-# Hi there, I'm Hemanth Reddy Yanamala! 
+# HI,  I'm Hemanth Reddy Yanamala! 
 
  **Aspiring Data Scientist | Lifelong Learner**
 
