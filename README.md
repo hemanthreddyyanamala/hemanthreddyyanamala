@@ -12,11 +12,7 @@ I’m passionate about leveraging data to solve real-world problems. My journey 
 ---
 # 💻 Tech Stack:
 ## Featured Projects
-[![Neural Networks](https://img.shields.io/badge/neural_networks-OpenCV%20Task%201-000000?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/neural_networks/tree/main/opencvtask1)
-[![Stars](https://img.shields.io/github/stars/hemanthreddyyanamala/neural_networks?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/neural_networks/tree/main/opencvtask1)
-[![Forks](https://img.shields.io/github/forks/hemanthreddyyanamala/neural_networks?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/neural_networks/tree/main/opencvtask1)
-[![Issues](https://img.shields.io/github/issues/hemanthreddyyanamala/neural_networks?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/neural_networks/tree/main/opencvtask1)
-[![Language](https://img.shields.io/github/languages/top/hemanthreddyyanamala/neural_networks?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/neural_networks/tree/main/opencvtask1)
+
 
 ##  About Me
 
@@ -28,9 +24,11 @@ I’m passionate about leveraging data to solve real-world problems. My journey 
 ---
 
 ## Projects
-![Repo Stars](https://img.shields.io/github/stars/hemanthreddyyanamala/neural_networks?style=flat-square&logo=github)
-
-![Repo Forks](https://img.shields.io/github/forks/hemanthreddyyanamala/neural_networks?style=flat-square&logo=github)
+[![Neural Networks](https://img.shields.io/badge/neural_networks-OpenCV%20Task%201-000000?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/neural_networks/tree/main/opencvtask1)
+[![Stars](https://img.shields.io/github/stars/hemanthreddyyanamala/neural_networks?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/neural_networks/tree/main/opencvtask1)
+[![Forks](https://img.shields.io/github/forks/hemanthreddyyanamala/neural_networks?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/neural_networks/tree/main/opencvtask1)
+[![Issues](https://img.shields.io/github/issues/hemanthreddyyanamala/neural_networks?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/neural_networks/tree/main/opencvtask1)
+[![Language](https://img.shields.io/github/languages/top/hemanthreddyyanamala/neural_networks?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/neural_networks/tree/main/opencvtask1)
 
 ---
 
