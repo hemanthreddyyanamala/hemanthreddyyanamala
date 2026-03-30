@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HEMANTH%20REDDY" width="100%" alt="Yanamala Hemanth Reddy Banner"/>
 </p>
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemanthreddyyanamala&theme=dark)](https://github.com/hemanthreddyyanamala)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Data+Scientist;Building+scalable+and+real-world+web+apps" alt="Typing SVG subtitle" />
@@ -23,14 +22,8 @@ I’m passionate about leveraging data to solve real-world problems. My journey 
 
 ---
 
-##  Notable Projects
-
-- [Malicious URL Detection using Machine Learning](https://github.com/hemanthreddyyanamala/finalyearproject)  _Detecting unsafe URLs with ML techniques._
-
-- [Walmart Sales Prediction using ML](https://github.com/hemanthreddyyanamala/Smartinternz_externship)_Forecasting sales with data-driven models._
-- [https://github.com/hemanthreddyyanamala/finalyearproject](https://github.com/hemanthreddyyanamala/Innomatics_Internship/tree/69b34f30d8cb47b38e9b431f5b0aeba5262b7dcc/Production-Ready%20GenAI%20Chatbot%20Project) _RAG application on Blog Assistant Chatbot._
-
-  Live: https://huggingface.co/spaces/hemanth003/genaiproject01
+## Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hemanthreddyyanamala&theme=dark&hide_border=true&repo=neural_networks/tree/main/opencvtask1)](https://github.com/hemanthreddyyanamala/neural_networks/tree/main/opencvtask1) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SUKHMAN-SINGH-1612&theme=dark&hide_border=true&repo=IBM-AI-Engineering)](https://github.com/SUKHMAN-SINGH-1612/IBM-AI-Engineering)
 
 ---
 
@@ -74,5 +67,7 @@ Thanks for stopping by! Feel free to connect or reach out for collaborations and
   | SQL
   | ML
   | DL
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemanthreddyyanamala&theme=dark)](https://github.com/hemanthreddyyanamala)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/y_h________) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dileep-kumawat/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/BagIndependent276/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/dilsecode) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@dilsecode) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dileep525kumawat@gmail.com) 
