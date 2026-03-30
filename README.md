@@ -45,8 +45,7 @@ I’m passionate about leveraging data to solve real-world problems. My journey 
 ---
 ## Skills & Technologies
 
-### Programming & Libraries
-[![Python](https://img.shields.io/badge/Python-NumPy%20%7C%20Pandas%20%7C%20Scikit--learn-blue?style=flat-square&logo=python)](https://github.com/hemanthreddyyanamala)
+###Programming & Libraries [![Python](https://img.shields.io/badge/Python-NumPy%20%7C%20Pandas%20%7C%20Scikit--learn-blue?style=flat-square&logo=python)](https://github.com/hemanthreddyyanamala)
 [![Data-Vis](https://img.shields.io/badge/Data%20Vis-Matplotlib%20%7C%20Seaborn%20%7C%20Plotly-orange?style=flat-square&logo=plotly)](https://github.com/hemanthreddyyanamala)
 [![Web-Scraping](https://img.shields.io/badge/Web%20Scraping-BeautifulSoup%20%7C%20OpenCV-green?style=flat-square&logo=opencv)](https://github.com/hemanthreddyyanamala)
 
