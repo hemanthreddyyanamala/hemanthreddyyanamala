@@ -7,22 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Data+Scientist;Building+scalable+and+real-world+web+apps" alt="Typing SVG subtitle" />
 </p>
 
-I’m passionate about leveraging data to solve real-world problems. My journey is driven by curiosity and a love for learning new things, especially in the fields of Data Science and I am excited to share my journey with you through my project portfolio.
-
----
-# 💻 Tech Stack:
-## Featured Projects
-
-
-##  About Me
-
--  **Curious to learn new things** every day!
--  Building skills in **Python**, **Machine Learning**, and **Deep Learning**.
--  **Open to collaboration** and actively seeking exciting internship opportunities.
--  Always working on meaningful projects to sharpen my expertise.
-
----
-
 ## Projects
 [![Neural Networks](https://img.shields.io/badge/neural_networks-OpenCV%20Task%201-000000?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/neural_networks/tree/main/opencvtask1)
 [![Stars](https://img.shields.io/github/stars/hemanthreddyyanamala/neural_networks?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/neural_networks/tree/main/opencvtask1)
@@ -46,34 +30,6 @@ I’m passionate about leveraging data to solve real-world problems. My journey 
 [![GenAI](https://img.shields.io/badge/GenAI-LLMs%20%7C%20RAG%20%7C%20LangChain-pink?style=flat-square&logo=langchain)](https://github.com/hemanthreddyyanamala)
 
 
-##  What I’m Looking For
-
--  **Collaborative projects** in ML/DL and Data Science
--  **Internship opportunities** to kickstart my professional journey
-
----
-
-##  Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/yanamala-hemanth-reddy/)
-
----
-
-> “Curious to learn new things.”  
-
-Thanks for stopping by! Feel free to connect or reach out for collaborations and opportunities.
-
-
----
-
-##  “Currently I am working on.” 
-  | Python
-  | PowerBI
-  | Statistics
-  | EDA
-  | SQL
-  | ML
-  | DL
 
 ## GitHub Streaks
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hemanthreddyyanamala&theme=dark&hide_border=true)](https://git.io/streak-stats)
