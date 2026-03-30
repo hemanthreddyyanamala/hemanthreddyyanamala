@@ -1,6 +1,6 @@
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dileep-kumawat&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=hemanthreddyyanamala&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Dileep-kumawat&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dileep-kumawat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
