@@ -1,5 +1,3 @@
-
-# HI,
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HEMANTH%20REDDY" width="100%" alt="Shubham Raj Sharma banner"/>
 </p>
