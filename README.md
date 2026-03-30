@@ -1,5 +1,8 @@
 
-# HI,  I'm Hemanth Reddy Yanamala! 
+# HI,
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Shubham%20Raj%20Sharma%20" width="100%" alt="Shubham Raj Sharma banner"/>
+</p>
 
  **Aspiring Data Scientist | Lifelong Learner**
 
