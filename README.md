@@ -23,6 +23,8 @@ I’m passionate about leveraging data to solve real-world problems. My journey 
 ---
 
 ## Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hemanthreddyyanamala&theme=dark&hide_border=true&repo=neural_networks)](https://github.com/hemanthreddyyanamala/neural_networks/tree/main/opencvtask1)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hemanthreddyyanamala&theme=dark&hide_border=true&repo=neural_networks)](https://github.com/hemanthreddyyanamala/neural_networks) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SUKHMAN-SINGH-1612&theme=dark&hide_border=true&repo=IBM-AI-Engineering)](https://github.com/SUKHMAN-SINGH-1612/IBM-AI-Engineering)
 
