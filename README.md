@@ -11,7 +11,9 @@ I’m passionate about leveraging data to solve real-world problems. My journey 
 
 ---
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+## Featured Projects
+[![Neural Networks](https://github.com/hemanthreddyyanamala/neural_networks/raw/main/opencvtask1/screenshot.png)](https://github.com/hemanthreddyyanamala/neural_networks/tree/main/opencvtask1)
+**OpenCV Task 1** - Computer vision project with neural networks
 
 ##  About Me
 
