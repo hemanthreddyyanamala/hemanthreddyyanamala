@@ -30,19 +30,6 @@ I’m passionate about leveraging data to solve real-world problems. My journey 
 [![Issues](https://img.shields.io/github/issues/hemanthreddyyanamala/neural_networks?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/neural_networks/tree/main/opencvtask1)
 [![Language](https://img.shields.io/github/languages/top/hemanthreddyyanamala/neural_networks?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/neural_networks/tree/main/opencvtask1)
 
----
-
-##  Skills & Technologies
-
-- **Python:**              NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, BeautifulSoup, SciPy, Plotly, Jupyter, Streamlit, OpenCV 
-- **DBMS:**                MySQL, SQLite, CRUD operations, Indexing, Joins, Normalization, ETL pipelines. 
-- **Power BI:**            DAX, Visualization, Power Queries, Power Pivot, Visual Interactions, Drill Through.  
-- **Advanced Statistics:** Descriptive Statistics, Probability Distributions, Inferential Statistics, Hypothesis Testing, A/B Testing. 
-- **Machine Learning:**    Supervised/Unsupervised Learning, Regression/Classification, Clustering, Ensemble Methods (Random Forest, XGBoost), Evaluation Metrics, Hyperparameter Tuning, Feature Engineering, Model Deployment. 
-- **Deep Learning :**      TensorFlow, PyTorch, Keras, Neural Networks (CNN, RNN).   
-- **Gen AI :**             LLMs, RAG (Retrieval-Augmented Generation), Prompt Engineering, Fine-tuning LLMs, LangChain. 
-
----
 ## Skills & Technologies
 
 [![Python](https://img.shields.io/badge/Python-NumPy%20%7C%20Pandas%20%7C%20Scikit--learn-blue?style=flat-square&logo=python)](https://github.com/hemanthreddyyanamala)
