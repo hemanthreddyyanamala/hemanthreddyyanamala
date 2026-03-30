@@ -43,6 +43,26 @@ I’m passionate about leveraging data to solve real-world problems. My journey 
 - **Gen AI :**             LLMs, RAG (Retrieval-Augmented Generation), Prompt Engineering, Fine-tuning LLMs, LangChain. 
 
 ---
+## Skills & Technologies
+
+### Programming & Libraries
+[![Python](https://img.shields.io/badge/Python-NumPy%20%7C%20Pandas%20%7C%20Scikit--learn-blue?style=flat-square&logo=python)](https://github.com/hemanthreddyyanamala)
+[![Data-Vis](https://img.shields.io/badge/Data%20Vis-Matplotlib%20%7C%20Seaborn%20%7C%20Plotly-orange?style=flat-square&logo=plotly)](https://github.com/hemanthreddyyanamala)
+[![Web-Scraping](https://img.shields.io/badge/Web%20Scraping-BeautifulSoup%20%7C%20OpenCV-green?style=flat-square&logo=opencv)](https://github.com/hemanthreddyyanamala)
+
+### Database
+[![DBMS](https://img.shields.io/badge/DBMS-MySQL%20%7C%20SQLite%20%7C%20ETL-brightgreen?style=flat-square&logo=mysql)](https://github.com/hemanthreddyyanamala)
+
+### Business Intelligence
+[![Power BI](https://img.shields.io/badge/Power%20BI-DAX%20%7C%20Power%20Query%20%7C%20Pivot-yellow?style=flat-square&logo=power-bi)](https://github.com/hemanthreddyyanamala)
+
+### Machine Learning
+[![ML](https://img.shields.io/badge/ML-Supervised%20%7C%20Unsupervised%20%7C%20XGBoost-purple?style=flat-square&logo=scikit-learn)](https://github.com/hemanthreddyyanamala)
+[![Deep%20Learning](https://img.shields.io/badge/DL-TensorFlow%20%7C%20PyTorch%20%7C%20CNN-red?style=flat-square&logo=tensorflow)](https://github.com/hemanthreddyyanamala)
+
+### Generative AI
+[![GenAI](https://img.shields.io/badge/GenAI-LLMs%20%7C%20RAG%20%7C%20LangChain-pink?style=flat-square&logo=langchain)](https://github.com/hemanthreddyyanamala)
+
 
 ##  What I’m Looking For
 
