@@ -1,12 +1,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HEMANTH%20REDDY" width="100%" alt="Shubham Raj Sharma banner"/>
 </p>
-
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemanthreddyyanamala&theme=dark)](https://github.com/hemanthreddyyanamala)
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Data+Scientist;Building+scalable+and+real-world+web+apps" alt="Typing SVG subtitle" />
 </p>
 
-Currently learning Data Science at **Innomatics Research Labs**, I’m passionate about leveraging data to solve real-world problems. My journey is driven by curiosity and a love for learning new things, especially in the fields of Machine Learning (ML) and Deep Learning (DL).
+I’m passionate about leveraging data to solve real-world problems. My journey is driven by curiosity and a love for learning new things, especially in the fields of Data Science and I am excited to share my journey with you through my project portfolio.
 
 ---
 # 💻 Tech Stack:
