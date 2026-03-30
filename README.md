@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Data+Scientist;Building+scalable+and+real-world+web+apps" alt="Typing SVG subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Data+Scientist;" alt="Typing SVG subtitle" />
 </p>
 
 ## Projects
@@ -35,7 +35,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hemanthreddyyanamala&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/y_h________) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dileep-kumawat/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/BagIndependent276/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/dilsecode) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@dilsecode) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dileep525kumawat@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/y_h________) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanamala-hemanth-reddy/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hemanthreddyyanamala73@gmail.com) 
 
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemanthreddyyanamala&theme=dark)](https://github.com/hemanthreddyyanamala)
