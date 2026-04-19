@@ -14,6 +14,26 @@
 [![Issues](https://img.shields.io/github/issues/hemanthreddyyanamala/neural_networks?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/neural_networks/tree/main/opencvtask1)
 [![Language](https://img.shields.io/github/languages/top/hemanthreddyyanamala/neural_networks?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/neural_networks/tree/main/opencvtask1)
 
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Insurance%20Fraud%20Detection-000000?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/Innomatics_Research_Labs/tree/main/Insurance%20-%20Fraud%20Detection)
+[![Stars](https://img.shields.io/github/stars/hemanthreddyyanamala/Innomatics_Research_Labs?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/Innomatics_Research_Labs/tree/main/Insurance%20-%20Fraud%20Detection)
+[![Forks](https://img.shields.io/github/forks/hemanthreddyyanamala/Innomatics_Research_Labs?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/Innomatics_Research_Labs/tree/main/Insurance%20-%20Fraud%20Detection)
+[![Issues](https://img.shields.io/github/issues/hemanthreddyyanamala/Innomatics_Research_Labs?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/Innomatics_Research_Labs/tree/main/Insurance%20-%20Fraud%20Detection)
+[![Language](https://img.shields.io/github/languages/top/hemanthreddyyanamala/Innomatics_Research_Labs?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/Innomatics_Research_Labs/tree/main/Insurance%20-%20Fraud%20Detection)
+
+
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Rice_Leaf_Disease_Classifier-000000?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/Innomatics_Research_Labs/tree/main/Rice_Leaf_Disease_Classifier)
+[![Stars](https://img.shields.io/github/stars/hemanthreddyyanamala/Innomatics_Research_Labs?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/Innomatics_Research_Labs/tree/main/Rice_Leaf_Disease_Classifier)
+[![Forks](https://img.shields.io/github/forks/hemanthreddyyanamala/Innomatics_Research_Labs?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/Innomatics_Research_Labs/tree/main/Rice_Leaf_Disease_Classifier)
+[![Issues](https://img.shields.io/github/issues/hemanthreddyyanamala/Innomatics_Research_Labs?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/Innomatics_Research_Labs/tree/main/Rice_Leaf_Disease_Classifier)
+[![Language](https://img.shields.io/github/languages/top/hemanthreddyyanamala/Innomatics_Research_Labs?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/Innomatics_Research_Labs/tree/main/Rice_Leaf_Disease_Classifier)
+
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-movie_genre-000000?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/Innomatics_Research_Labs/tree/main/movie_genre)
+[![Stars](https://img.shields.io/github/stars/hemanthreddyyanamala/Innomatics_Research_Labs?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/Innomatics_Research_Labs/tree/main/movie_genrer)
+[![Forks](https://img.shields.io/github/forks/hemanthreddyyanamala/Innomatics_Research_Labs?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/Innomatics_Research_Labs/tree/main/movie_genre)
+[![Issues](https://img.shields.io/github/issues/hemanthreddyyanamala/Innomatics_Research_Labs?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/Innomatics_Research_Labs/tree/main/movie_genre)
+[![Language](https://img.shields.io/github/languages/top/hemanthreddyyanamala/Innomatics_Research_Labs?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/Innomatics_Research_Labs/tree/main/movie_genre)
+
+
 ## Skills & Technologies
 
 [![Python](https://img.shields.io/badge/Python-NumPy%20%7C%20Pandas%20%7C%20Scikit--learn-blue?style=flat-square&logo=python)](https://github.com/hemanthreddyyanamala)
