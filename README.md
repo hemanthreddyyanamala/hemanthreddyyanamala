@@ -8,7 +8,7 @@
 </p>
 
 ## Projects
-[![Neural Networks](https://img.shields.io/badge/neural_networks-OpenCV%20Task%201-000000?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/neural_networks/tree/main/opencvtask1)
+[![Deep Learning](https://img.shields.io/badge/Deep_Learning-OpenCV%20Task%201-000000?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/neural_networks/tree/main/opencvtask1)
 [![Stars](https://img.shields.io/github/stars/hemanthreddyyanamala/neural_networks?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/neural_networks/tree/main/opencvtask1)
 [![Forks](https://img.shields.io/github/forks/hemanthreddyyanamala/neural_networks?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/neural_networks/tree/main/opencvtask1)
 [![Issues](https://img.shields.io/github/issues/hemanthreddyyanamala/neural_networks?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/neural_networks/tree/main/opencvtask1)
@@ -32,6 +32,14 @@
 [![Forks](https://img.shields.io/github/forks/hemanthreddyyanamala/Innomatics_Research_Labs?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/Innomatics_Research_Labs/tree/main/movie_genre)
 [![Issues](https://img.shields.io/github/issues/hemanthreddyyanamala/Innomatics_Research_Labs?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/Innomatics_Research_Labs/tree/main/movie_genre)
 [![Language](https://img.shields.io/github/languages/top/hemanthreddyyanamala/Innomatics_Research_Labs?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/Innomatics_Research_Labs/tree/main/movie_genre)
+
+## Blogs & Mini Projects
+
+[![Deep Learning](https://img.shields.io/badge/Deep_Learning-NLP_MINI_PROJ-000000?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/Deep_Learning/tree/main/NLP_MINI_PROJ)
+[![Stars](https://img.shields.io/github/stars/hemanthreddyyanamala/neural_networks?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/Deep_Learning/tree/main/NLP_MINI_PROJ)
+[![Forks](https://img.shields.io/github/forks/hemanthreddyyanamala/neural_networks?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/Deep_Learning/tree/main/NLP_MINI_PROJ)
+[![Issues](https://img.shields.io/github/issues/hemanthreddyyanamala/neural_networks?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/Deep_Learning/tree/main/NLP_MINI_PROJ)
+[![Language](https://img.shields.io/github/languages/top/hemanthreddyyanamala/neural_networks?style=flat-square&logo=github)](https://github.com/hemanthreddyyanamala/Deep_Learning/tree/main/NLP_MINI_PROJ)
 
 
 ## Skills & Technologies
